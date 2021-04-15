@@ -1,0 +1,110 @@
+[
+    {
+        "JobTitle": " Firebase security rules ",
+        "Salary": " $10.00 – 30.00 USD ",
+        "Details": " Need a full stack native android developer (java) to provide forecast security rules for our app to ensure that the database is secure.  Please provide message with screenshot of firebase rules screen as example of work/expertise. ",
+        "Skills": [
+            " Java ",
+            " Mobile App Development ",
+            " Android ",
+            " Google Firebase "
+        ]
+    },
+    {
+        "JobTitle": " Find two points to draw a triangle in java. ",
+        "Salary": " $100.00 – 101.00 USD ",
+        "Details": " Given a point(lat,long), raduis, angle and direction we need to draw\na traingle. find two remaining vertices(in lat & long). The three points are then\nused to show a polygon on a map.\n\nIn the picture, \nX = initial point (lat, long).\nY = direction the triangle is drawn.\nZ = radius.\nW = angle.\n\nThe direction of the triangle is given in degrees.\nNorth = 0 degrees\nEast = 90 degrees\nWest = 270 degrees\nSouth = 180 degrees\n\nFind A1 and A2. Write a function that take 4 parameters and return an array of points. ",
+        "Skills": [
+            " Java ",
+            " JavaScript ",
+            " Software Architecture ",
+            " Cartography & Maps "
+        ]
+    },
+    {
+        "JobTitle": " Java Project  ",
+        "Salary": " €8.00 – 40.00 EUR ",
+        "Details": " I need to get this project done before this sunday 24h GMT+1,\nneeds to be in java and it needs to run on the command line through a bat file, i made a more detailled description of the work i need, that you should be able to find in the zipped folder. \nThe enviroment is a .das file and needs to stay like that.\nI also need a UML file from StarUml application. ",
+        "Skills": [
+            " Java ",
+            " UML Design ",
+            " Software Architecture "
+        ]
+    },
+    {
+        "JobTitle": " Java project help ",
+        "Salary": " $10.00 – 30.00 USD ",
+        "Details": " Constructors\nMethods\nDecisions\nIteration\nCollections\nTest and debug small object-oriented programs.\nArrayList collection\nUnit tests using JUnit 5.\nA project that I need live help today.\nOnly an expert who can help with algorithm and code in real-time please.  ",
+        "Skills": [
+            " Java ",
+            " Algorithm ",
+            " Software Architecture "
+        ]
+    },
+    {
+        "JobTitle": " Keycloack implementation ",
+        "Salary": " €250.00 – 750.00 EUR ",
+        "Details": " Hello, here are the requirements\n\nWe'd like to integrate the OpenId authentication process into our solution. To do this, we have identified the following developments:\n\nFront End:\n• Configuration for connection to Keyclock\n• Code update for the authentication process (use of the Keyclock)\n• Update of the token backup process for connection with the backend\n\nBackend:\n• Configuration for connection to Keyclock\n• Update of the authentication control system in the security layer (use of OpenId instead of spring security)\n• Check the impacts on the process of retrieving information from the logged user\n\nSystem:\n• Installation of the keyclock system\n• Configuration of the jboss module for the use of a postgres database\n• Configuration of the jboss module to use the bcrypt-based hashing system\n• Migration of user data available in one application database to the keyclock system and therefore its database.\n\nHere are technos used in the project:\n• Angular 7\n• Spring boot 2.x\n• Maven 3.x\n• Web Service REST SOAP\n• Java 8 & 11\n• Hibernate\n• Spring batch\n• Liquibase\n\nPlease provide duration and cost for this type of project. ",
+        "Skills": [
+            " Java ",
+            " Java Spring ",
+            " Angular Material ",
+            " Keycloak "
+        ]
+    },
+    {
+        "JobTitle": " DMT API Development for a FinTech App ",
+        "Salary": " ₹12,500.00 – 37,500.00 INR ",
+        "Details": " Require Java developers who have experience working with fintech projects. ",
+        "Skills": [
+            " Java ",
+            " JavaScript ",
+            " Software Architecture ",
+            " MySQL "
+        ]
+    },
+    {
+        "JobTitle": " Java FX project -- 2 ",
+        "Salary": " $250.00 – 750.00 USD ",
+        "Details": " i need a professional Java FX programmer ",
+        "Skills": [
+            " Java ",
+            " JavaFX "
+        ]
+    },
+    {
+        "JobTitle": " Build me a java project ",
+        "Salary": " $30.00 – 250.00 USD ",
+        "Details": " I want to create a java project with GUI and a database ",
+        "Skills": [
+            " PHP ",
+            " Java ",
+            " JavaScript ",
+            " Software Architecture ",
+            " HTML "
+        ]
+    },
+    {
+        "JobTitle": " Need Java, Spring, Microservices, Angular, Azure Cloud to give support for 2hrs. We will give 20-23k per month ",
+        "Salary": " ₹12,500.00 – 37,500.00 INR ",
+        "Details": " Need Java, Spring, Microservices, Angular, Azure Cloud to give support for 2hrs. It's a part-time opportunity. You need to connect work through a remote connection. Need to give 2 hrs a day from mon-fri.  ",
+        "Skills": [
+            " Java ",
+            " Azure ",
+            " AngularJS ",
+            " Java Spring "
+        ]
+    },
+    {
+        "JobTitle": " odcet technologies pvt limited ",
+        "Salary": " ₹30,000.00 – 50,000.00 INR ",
+        "Details": " We are looking for Sr. android developer with hands on below experience.\n\nChar Development with Node JS.\n\nAndroid >> MVVM Data Binding\n\nLanguage >> JAVA\n\nNetwork call retrofit >> RX JAVA\n\nANDROID X COMPATIBILITY\n\nAPI LEVEL >> 30\n\nIMAGES LOADING >> GLIDE\n\nPart-time hours: 15 per week ",
+        "Skills": [
+            " Java ",
+            " JavaScript ",
+            " Mobile App Development ",
+            " Android ",
+            " XMPP "
+        ]
+    }
+]
